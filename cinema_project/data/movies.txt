@@ -1,5 +1,0 @@
-1|Shrek|89|6
-2|Cars|117|7
-3|Finding_Nemo|100|7
-4|Zootopia|108|7
-5|The_Lion_King|89|6
